@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background: url(noob.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: ;
+    height: 250vh;
+
+}
+.tip{
+    background-color: violet;
+    display: flex;
+justify-content: space-around;
+margin-top: 1px;
+padding-bottom: 13px;
+padding-left: 10px;
+padding-top: 10px;
+}
+.logo{
+    font-size: 50px;
+    color: turquoise;
+
+}
+ul{
+    display: flex;
+margin-top: 10px;
+}
+li{
+    list-style: none;
+    margin-left: 20px;
+}
+.token{
+    color: aqua;
+    display: flex;
+}
+.level{
+ color: aqua;
+   
+}
+.nokr{
+color: aqua;
+
+}
+.tipu{
+     color: aqua;
+
+    }
+.lion{
+    color: aqua;
+}
+    
+    .wsak{
+        color: aqua;
+    }
